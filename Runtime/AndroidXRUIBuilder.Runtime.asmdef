@@ -1,9 +1,7 @@
 {
     "name": "AndroidXRUIBuilder.Runtime",
     "rootNamespace": "AndroidXRUIBuilder",
-    "references": [
-        "Unity.TextMeshPro"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
