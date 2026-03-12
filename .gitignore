@@ -1,0 +1,28 @@
+# Unity generated
+*.meta
+*.pidb
+*.suo
+*.userprefs
+*.unityproj
+*.booproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.csproj
+*.sln
+
+# Build artifacts
+/build/
+/Builds/
+
+# Logs
+/[Ll]og/
+/[Ll]ogs/
+
+# Temp
+/[Tt]emp/

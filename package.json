@@ -1,0 +1,24 @@
+{
+  "name": "com.studio.android-xr-ui-builder",
+  "version": "1.0.0",
+  "displayName": "Android XR UI Builder",
+  "description": "A Unity 6 LTS uGUI Canvas-based UI builder implementing the Material Design 3 (M3) component system for Android XR. Includes Button (Filled/Outlined/Text/Elevated/Tonal), Text Field, Search Bar, and Image View with mask options.",
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Studio",
+    "url": "https://github.com/your-org/android-xr-ui-builder"
+  },
+  "keywords": [
+    "android-xr",
+    "material-design-3",
+    "m3",
+    "ugui",
+    "ui-builder",
+    "xr"
+  ],
+  "dependencies": {},
+  "documentationUrl": "https://github.com/your-org/android-xr-ui-builder#readme",
+  "changelogUrl": "https://github.com/your-org/android-xr-ui-builder/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/your-org/android-xr-ui-builder/blob/main/LICENSE.md"
+}
